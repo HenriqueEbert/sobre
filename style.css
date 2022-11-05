@@ -19,8 +19,8 @@ position: fixed;
 
 .img{
     background-color: gray;
-    width: 25%;
-    height: 25%;
+    width: 100px;
+    height: 100px;
     margin-left: 40%;
     margin-top: 5%;
     border-radius: 50%;
